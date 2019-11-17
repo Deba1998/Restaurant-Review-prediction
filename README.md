@@ -3,6 +3,8 @@ Here we classify different restaurant reviews into positive and negative reviews
 
 We assign the negative reviews to "0" and positive reviews to "1"
 
+Here we use tsv file instead of csv file as reviews may contain commas between them which will lead to faulty results 
+
 We apply natural language processing to solve thiis problem
 
 We done it in the following steps:-
